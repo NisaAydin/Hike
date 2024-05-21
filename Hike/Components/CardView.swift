@@ -32,7 +32,7 @@ struct CardView: View {
                     HStack{
                         
                     
-                    Text("Hiking").fontWeight(.black)
+                    Text("Hikingg").fontWeight(.black)
                         .font(.system(size: 52))
                         .foregroundStyle(LinearGradient(colors: [.colorGrayLight,.colorGrayMedium], startPoint: .top, endPoint: .bottom))
                         .padding(.trailing)
